@@ -14,6 +14,6 @@ I used a simple if function to switch prompts when whichever player's turn is ne
 - Ensure you have python version 3 installed on your computer .
 - Clone this repository to your local machine.
 - Navigate using your terminal into the folder containing the cloned repository.
-- Run the TicTacToe.py file within the terminal by typing `python TicTacToe.py` 
+- Run the TicTacToe.py file within the terminal by typing `...\ticTacToe> python TicTacToe.py` 
 - Each player is now given turns to play their move.
 - However this game does not double check to determine when a player has won.
